@@ -35,11 +35,6 @@ https://drive.google.com/file/d/1IqoUTJWRTaHdfW9cZPBPss6yIRYY4S_Z/view?usp=drive
 
 ---
 
-### 🔗 Internship
-This project was completed during my **ITI Internship**, supervised by *[Instructor’s Name]* and *[Assistant’s Name]*.  
-
----
-
 ## 📜 License
 This project is shared for educational purposes. Feel free to explore and learn!  
 
