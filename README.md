@@ -26,7 +26,7 @@ It demonstrates **hardware-software integration** using an **STM32 microcontroll
 3. The result is an **interactive embedded system** controlled seamlessly from a GUI.  
 
 ## 📸 Demo
-(Add screenshots or a short GIF/video of your project running here!)  
+https://drive.google.com/file/d/1IqoUTJWRTaHdfW9cZPBPss6yIRYY4S_Z/view?usp=drive_link
 
 ## 📖 Learning Outcomes
 - Gained hands-on experience with **UART & SPI communication**.  
